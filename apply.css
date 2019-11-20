@@ -1,0 +1,11 @@
+h1{
+    text-align:center;
+    padding: 30px;
+    color:whitesmoke;
+}
+label{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: white;
+    text-align: center; 
+}
